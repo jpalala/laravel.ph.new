@@ -132,8 +132,8 @@
                 <h4 class="title">LaravelPH Co-founder</h4>
               </div>
               <ul class="social">
-                <li><a href="https://facebook.com/jpalala.me" class="fa fa-facebook" aria-hidden="true"></a></li>
-                <li><a href="https://github.com/joepalala" class="fa fa-github" aria-hidden="true"></a></li>
+                <li><a href="https://facebook.com/jpalala.me" class="fas fa-facebook" aria-hidden="true"></a></li>
+                <li><a href="https://github.com/joepalala" class="fas fa-github" aria-hidden="true"></a></li>
               </ul>
             </div>
           </div>

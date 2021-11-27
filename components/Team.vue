@@ -111,7 +111,7 @@
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
             <div class="our-team">
               <div class="picture">
-                <img class="img-fluid" src="">
+                <img class="img-fluid" src="jayare.jpg" alt="Jay Are Galinada">
               </div>
               <div class="team-content">
                 <h3 class="name">Jay Are Galinada</h3>
@@ -125,7 +125,7 @@
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
             <div class="our-team">
               <div class="picture">
-                <img class="img-fluid" src="https://picsum.photos/130/130?image=1027">
+                <img class="img-fluid" src="joe.jpg" alt="Joe Palala">
               </div>
               <div class="team-content">
                 <h3 class="name">Joe Palala</h3>

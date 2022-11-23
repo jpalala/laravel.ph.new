@@ -34,7 +34,7 @@
     "postcss": "^8.4.19",
     "prettier": "^2.8.0",
     "stylelint": "^13.13.1",
-    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-prettier": "^9.0.4",
     "stylelint-config-standard": "^22.0.0",
     "vue-template-compiler": "2.0.0",
     "webpack": "4.46.0"

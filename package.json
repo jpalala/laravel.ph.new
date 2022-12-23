@@ -22,7 +22,7 @@
     "vue": "^2.7.14"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.2",
+    "@babel/core": "^7.20.7",
     "@babel/preset-env": "^7.20.2",
     "@nuxtjs/stylelint-module": "^4.1.0",
     "@nuxtjs/tailwindcss": "^4.2.1",
